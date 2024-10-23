@@ -757,8 +757,7 @@ img {
   min-width: 169px;
   height: 56px;
   display: block;
-  border: 1px solid #000;
-  border-radius: 4px;
+   border-radius: 4px;
   padding: 16px 32px;
   margin: 0 auto;
   background-color: #4d5ae5;
